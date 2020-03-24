@@ -1,2 +1,3 @@
 # staticDatingApp
- Since my dating app frontend has to go online, this is the repo.
+
+This is my static prototype for my dating app filter feature. For the repository and the wiki of the filter feature, you can click (here)[https://github.com/veerleprins/featureDatingApp].
