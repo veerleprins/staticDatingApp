@@ -194,12 +194,12 @@ body {
 
 .swipe section {
     margin-top: 1em;
-    border-radius: 1em;;
+    border-radius: 1em;
     box-shadow: 4px 4px 8px grey;
 }
 
 .swipe section figure {
-    height: 75vh;
+    height: 70vh;
     position: relative;
 }
 
