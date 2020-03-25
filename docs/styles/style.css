@@ -290,6 +290,7 @@ body {
 .swipe section figure figcaption form button {
     margin: 0 auto;
     background-color: none;
+    border-radius: 50%;
 }
 
 
@@ -468,5 +469,6 @@ body {
     .swipe section figure figcaption form button {
         margin: 0 auto;
         background-color: none;
+        border-radius: 50%;
     }
 }
